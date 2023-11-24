@@ -174,7 +174,7 @@ if (badwordkick === 'TRUE' && isBotAdmin && !isAdmin && body && (new RegExp('\\b
         case "help":
         case "menu":
 
-                       client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `BAYMAX BOT\n\nHello ${m.pushName}.\nThis is BayMax AI Bot, a simple whatsApp Bot! 
+                       client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d6dab955fbaa42fce2280.jpg' }, caption: `SubZeri BOT\n\nHello ${m.pushName}.\nThis is SubZero AI Bot, a simple whatsApp Bot! 
   
   THIS IS A PUBLIC BOT AND DEVELOPMENT IS ON PROGRESS
  
@@ -184,7 +184,7 @@ if (badwordkick === 'TRUE' && isBotAdmin && !isAdmin && body && (new RegExp('\\b
   
                𝗡𝗼𝘁𝗲: 
   
- - BayMax AI Is A Artificial Intelligence bot Created for Educational purposes only.
+ - SubZero AI Is A Artificial Intelligence bot Created for Educational purposes only.
  - Do not call or spam the bot! 🦄 
  - Donot use the bot for Political or Nudity purposes l
  - Bot is still under development so expect random bugs and errors! 🔧 
